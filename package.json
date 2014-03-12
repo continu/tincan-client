@@ -1,0 +1,22 @@
+{
+  "name": "tincan-client",
+  "version": "0.0.0",
+  "description": "A tincan client that is able to work with continus tincan api",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/continu/tincan-client.git"
+  },
+  "author": "Austin Riendeau",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/continu/tincan-client/issues"
+  },
+  "homepage": "https://github.com/continu/tincan-client",
+  "dependencies": {
+    "request": "^2.34.0"
+  }
+}
